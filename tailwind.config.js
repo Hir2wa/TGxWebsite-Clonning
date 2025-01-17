@@ -2,7 +2,9 @@
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
-    extend: {},
+    extend: {
+      gridTemplateColumns: { mycustom: "70fr 30fr" },
+    },
   },
   plugins: [],
 };
