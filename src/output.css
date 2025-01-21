@@ -822,6 +822,10 @@ video {
   padding: 0.75rem;
 }
 
+.p-1 {
+  padding: 0.25rem;
+}
+
 .px-2 {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
@@ -875,6 +879,18 @@ video {
   padding-bottom: 0.5rem;
 }
 
+.pt-4 {
+  padding-top: 1rem;
+}
+
+.pt-10 {
+  padding-top: 2.5rem;
+}
+
+.pt-32 {
+  padding-top: 8rem;
+}
+
 .text-center {
   text-align: center;
 }
@@ -923,6 +939,11 @@ video {
 .text-white {
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.text-red-400 {
+  --tw-text-opacity: 1;
+  color: rgb(248 113 113 / var(--tw-text-opacity, 1));
 }
 
 .shadow-lg {
