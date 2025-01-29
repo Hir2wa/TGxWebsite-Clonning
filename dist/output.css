@@ -570,10 +570,6 @@ video {
   bottom: 1rem;
 }
 
-.left-0 {
-  left: 0px;
-}
-
 .right-2 {
   right: 0.5rem;
 }
@@ -666,6 +662,10 @@ video {
 
 .items-center {
   align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
 }
 
 .justify-between {
